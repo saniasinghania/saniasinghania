@@ -42,13 +42,14 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saniasinghania&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=algolia"/> -->
 <!-- </a>
-</p> --> -->
+</p> -->
 
 <p align="center">
   <a href="https://github.com/saniasinghania">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saniasinghania&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=algolia"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=saniasinghania&theme=algolia&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saniasinghania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=saniasinghania&theme=dracula&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saniasinghania&theme=dracula&hide_border=true" />
   </a>
 </p>
 
