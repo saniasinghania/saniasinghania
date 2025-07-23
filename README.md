@@ -2,9 +2,9 @@
 
 ## Hi there 👋, my name is Sania
 
-I am currently a masters student at the University of Freiburg, Germany. I am studying a wonderful ensemble of artificial intelligence and embedded systems concepts in my masters program, which makes me a perfect candidate for state-of-the-art Internet of Things projects using AI. 
+I am currently a masters student at the University of Freiburg, Germany. I am studying a wonderful ensemble of artificial intelligence and embedded systems concepts in my masters program, which makes me a perfect candidate for state-of-the-art Internet of Things projects using AI. When I'm not building models or doing assignments, I can be found doing yoga🧘‍♀️ , catching sunsets 🌄, or hiking in the beautiful black forest region 🚶‍♀️🏔️. 
 
-- 🔭 Apart from studying, I’m currently working part-time on interesting python based projects at Wiferion-PULS GmbH, a German company that makes wifeless battery charging systems for mobile robots. (Voted 2025 product of the year!).
+- 🔭 Apart from studying, I’m currently working part-time on interesting python based projects at Wiferion-PULS GmbH [<img style="margin-left: 6.5px" src="assets/wiferion-logo.png" alt="bugsplat slingshot" height="15px">]([https://github.com/workingdevshero](https://www.wiferion.com/)), a German company that makes wifeless battery charging systems for mobile robots. (Voted 2025 product of the year!).
     - My focus is on:
       - Python (OPENCV, Flask, Matplotlib, Streamlit, etc.)
       - backend technologies (gunicorn, nginx and apache2 on Linux) and
