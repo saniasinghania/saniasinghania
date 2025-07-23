@@ -16,6 +16,14 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 ### 🛠 &nbsp; Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![OpenCV](https://img.shields.io/badge/-Python-05122A?style=flat&logo=opencv)&nbsp;
+![PyTorch](https://img.shields.io/badge/-Python-05122A?style=flat&logo=pytorcg)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Python-05122A?style=flat&logo=tensorflow)&nbsp;
+![Keras](https://img.shields.io/badge/-Python-05122A?style=flat&logo=keras)&nbsp;
+![HuggingFace](https://img.shields.io/badge/-Python-05122A?style=flat&logo=huggingface)&nbsp;
+![Numpy](https://img.shields.io/badge/-Python-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Python-05122A?style=flat&logo=pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Python-05122A?style=flat&logo=matplotlib)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
