@@ -46,12 +46,23 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 
 <p align="center">
   <a href="https://github.com/saniasinghania">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saniasinghania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=dracula"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=saniasinghania&theme=dracula&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saniasinghania&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=saniasinghania&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=algolia" height="180em"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saniasinghania&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saniasinghania&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saniasinghania&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 
 <!--
