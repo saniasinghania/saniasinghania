@@ -37,14 +37,14 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!-- <p align="center">
+ <p align="center">
 <a href="https://github.com/saniasinghania">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saniasinghania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=dracula"/> -->
-<!-- </a>
-</p> -->
+</a>
+</p>
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saniasinghania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/>
@@ -57,7 +57,7 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saniasinghania&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 
 
