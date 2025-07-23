@@ -19,11 +19,22 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
+![MySQL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows Terminal](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/saniasinghania">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saniasinghania&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **saniasinghania/saniasinghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
