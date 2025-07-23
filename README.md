@@ -13,6 +13,18 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 - 👯 I’m looking to collaborate on unique artificial intelligence projects for my [masters thesis].
 - 📫 How to reach me: Email me at saniasinghania6@gmail.com
 
+### 🛠 &nbsp; Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 <!--
 **saniasinghania/saniasinghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
