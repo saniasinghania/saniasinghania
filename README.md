@@ -37,12 +37,20 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/saniasinghania">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saniasinghania&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=algolia"/> -->
-</a>
+<!-- </a>
+</p> --> -->
+
+<p align="center">
+  <a href="https://github.com/saniasinghania">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saniasinghania&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 
 <!--
 **saniasinghania/saniasinghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
