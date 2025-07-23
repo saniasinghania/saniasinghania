@@ -11,7 +11,6 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
       - PostgreSQL. 
 - 🌱 I’m currently learning how to code for production envinronments suitable for scaling: Docker containers, WebApps for data visualization and more!
 - 👯 I’m looking to collaborate on unique artificial intelligence projects for my [masters thesis].
-- 📫 How to reach me: Email me at saniasinghania6@gmail.com
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -59,7 +58,12 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
   <img src="https://komarev.com/ghpvc/?username=saniasinghania&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p> -->
 
+## 📫 How to reach me
 
+[<img src="assets/envelope.png" height="50px">](mailto:saniasinghania6@gmail.com)
+[<img src="assets/linkedin.png" height="50px">](https://linkedin.com/in/sania-singhania-30a5811a7)
+
+***Thanks for visiting my profile! I hope we can collaborate :)***
 
 <!--
 **saniasinghania/saniasinghania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
