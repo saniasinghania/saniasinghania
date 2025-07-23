@@ -39,7 +39,7 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
  <p align="center">
 <a href="https://github.com/saniasinghania">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saniasinghania&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=dracula"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saniasinghania&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
