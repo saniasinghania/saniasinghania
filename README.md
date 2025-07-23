@@ -60,7 +60,7 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:saniasinghania6@gmail.com)
+[<img src="assets/envelope.png" height="45px">](mailto:saniasinghania6@gmail.com)
 [<img src="assets/linkedin.png" height="50px">](https://linkedin.com/in/sania-singhania-30a5811a7)
 
 ***Thanks for visiting my profile! I hope we can collaborate :)***
