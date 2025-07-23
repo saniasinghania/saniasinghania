@@ -1,6 +1,8 @@
-## Hi there 👋
+![profile view count](https://komarev.com/ghpvc/?username=saniasinghania)
 
-My name is Sania, and I am currently a masters student at the University of Freiburg, Germany. I am studying a wonderful ensemble of artificial intelligence and embedded systems concepts in my masters program, which makes me a perfect candidate for state-of-the-art Internet of Things projects using AI. 
+## Hi there 👋, my name is Sania
+
+I am currently a masters student at the University of Freiburg, Germany. I am studying a wonderful ensemble of artificial intelligence and embedded systems concepts in my masters program, which makes me a perfect candidate for state-of-the-art Internet of Things projects using AI. 
 
 - 🔭 Apart from studying, I’m currently working part-time on interesting python based projects at Wiferion-PULS GmbH, a German company that makes wifeless battery charging systems for mobile robots. (Voted 2025 product of the year!).
     - My focus is on:
