@@ -26,10 +26,10 @@ I am currently a masters student at the University of Freiburg, Germany. I am st
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
-![MySQL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows Terminal](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Windows Terminal](https://img.shields.io/badge/-WindowsTerminal-05122A?style=flat&logo=windowsterminal)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
